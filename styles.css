@@ -1,0 +1,36 @@
+body {
+    background-color: gainsboro;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+span {
+    background-color: ivory;
+    font-family: monospace;
+}
+
+table {
+    margin: 0 auto;
+    border: solid 2px darkviolet;
+    width: 650px;
+}
+
+th {
+    background-color: plum;
+}
+
+td {
+    text-align: left;
+    border-top: solid 1px purple;
+}
